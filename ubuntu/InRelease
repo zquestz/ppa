@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Wed, 02 Apr 2025 00:41:33 +0000
+MD5Sum:
+ 98d9421ffff02cbb331b0d5923dbc3f4              905 Packages
+ fd58b1c95e06e1c4be7065fbdf62036d              597 Packages.gz
+ 0011e505b868b233ad8a1c795b6ea399               38 Release
+SHA1:
+ b709a65d3d0896c5f3b22398e82bc8ea4403bd84              905 Packages
+ b1268b066ee7a276b5b9e530f053dd956d2f8645              597 Packages.gz
+ 71a356be6c89de75ec98b44c450ff420cee4439e               38 Release
+SHA256:
+ 06cdf2ce1f0dbeb00412f37535978499127351dd3c080bcbaa0c2a5fd44d39ea              905 Packages
+ 9cbf62d8010473a0ba99206a55bd80b4176c5be675071520feed30ccc9eea438              597 Packages.gz
+ 93814dc065e9756e92aa7dfd45d1e17419f8cc3ccb6a6621a83ee8b286870d75               38 Release
+SHA512:
+ 8b547dcb287e0952a35eab5149a89506af89e18c5904328360f0df083cb69542d299ef8d60148629a9aae28476720445d37e7793809f109741fda9b9243ecfba              905 Packages
+ 33aa5c47f99a71c38e0cbf3a447a2aab3dd9bae06f06c436bf8edd349c7931f7b8fa212eed068db70fd2a08d65cc480961c5cab544f56ba2eb562cf42a217622              597 Packages.gz
+ f13f1df75ccabcc0753e2f921cabefbc0dbe15e9d0998239de4bd55114020e9e670bc97f625245465202bc3688977b542834253a6f6c9466e3bce0ab91e50fde               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEtt41FOB+MLtfQI105Jt+AAAijd0FAmfsh70ACgkQ5Jt+AAAi
+jd1RhQ//QHuhxS2WQ/MGJi4PAxYyARpUWA9RT1sqXYnufJTjLbfHO1ZkJropBfK6
+jSSrthMiH5Zbo5Rg3GeBIjqmeqAXBYd37JSBnUSrF/u2UJfnvoeUJkedS4xeuae3
+ymAAY9nRF/tUwwRomLqfm3SmD9yTiUW6fomGoBJN2Kxf2bqkK1llFmjzf0+vkWF/
+oon4p2oCCvbLO0ieLGplxSERhfcCgNa0+WG23iFx85U9clKK3KoyXbT+/IJaDg5n
+sblf1VVOZzYO9x+oa0s18cKtyubgeFFtgFMxG4ziofgl62wfLtLc/nizsGEf/ytC
+0TWx0wov+/VmixvrVPKm+PziigPYaKZFRe9MS5KIBLmr+BmKw+0W6pS1bTUZkpwF
+DY9uu5okpyaMX6O6R/OpIjq41epK6kRWf7iPSqX+wK85b9FeLGX9UV8MNmUw+eHo
+UrR1cSquxQtSias/yTLdfeyg34/Y57eQLs2mpAPWxVHipD0TN7La0TV4itzRmy4s
+D0bCfZgTfOCqhFYHrOuHWbQd39d+xWt6yOmed2iZUyNYDbvt0whpoarDOByvZlft
+AqcP3RG5e3vWTBG/+kHyXpfcSXrTurk6YNSXZB6USyj/dMY7kQEpK8/tBdc+eBtq
+CDd+vAVFyHRC6Y/+du3k5+8zwsIfwMTap8RWG9f/9VWB9DAN1pw=
+=9XTg
+-----END PGP SIGNATURE-----
