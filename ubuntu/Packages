@@ -264,10 +264,10 @@ Architecture: amd64
 Maintainer: Josh Ellithorpe <quest@mac.com>
 Depends: bamfdaemon, libgee-0.8-2, libgnome-menu-3-0, libwnck-3-0, libc6
 Filename: ./plank-reloaded_0.11.130.deb
-Size: 543240
-MD5sum: 0259e621ad760052204d9a2dba30ec9c
-SHA1: 00c3873fee86d21d86c73e8ba54990668e63fe89
-SHA256: 3e279cdf76cfca2f6bddc9028b06cc71cb9e4a281ebf793c286d4b7181872e00
+Size: 543206
+MD5sum: 8e9005fa54e11f9e385b3bb4edd79c7d
+SHA1: 6258e59c1cc543b8132ae6b7dbc78f92c012a154
+SHA256: dfddf7c41f6e7668da7a50bab61ed13a59a6d6500331b2ad9ac1de144a94cda9
 Section: x11
 Priority: optional
 Homepage: https://github.com/zquestz/plank-reloaded
