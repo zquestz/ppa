@@ -8,12 +8,26 @@ A personal package archive hosted on GitHub Pages for distributing custom Ubuntu
 
 ## Installation
 
-Add the repository and install packages:
+Add the repository and install packages for Ubuntu and Debian:
+
+### Ubuntu
 
 ```bash
 # Add the repository
 curl -fsSL https://zquestz.github.io/ppa/ubuntu/KEY.gpg | sudo gpg --dearmor -o /usr/share/keyrings/zquestz-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/zquestz-archive-keyring.gpg] https://zquestz.github.io/ppa/ubuntu ./" | sudo tee /etc/apt/sources.list.d/zquestz.list
+sudo apt update
+
+# Install a package
+sudo apt install plank-reloaded
+```
+
+### Debian
+
+```bash
+# Add the repository
+curl -fsSL https://zquestz.github.io/ppa/debian/KEY.gpg | sudo gpg --dearmor -o /usr/share/keyrings/zquestz-archive-keyring.gpg
+echo "deb [signed-by=/usr/share/keyrings/zquestz-archive-keyring.gpg] https://zquestz.github.io/ppa/debian ./" | sudo tee /etc/apt/sources.list.d/zquestz.list
 sudo apt update
 
 # Install a package
