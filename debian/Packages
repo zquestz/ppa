@@ -1,0 +1,20 @@
+Package: plank-reloaded
+Version: 0.11.132-1
+Architecture: amd64
+Maintainer: Josh Ellithorpe <quest@mac.com>
+Depends: bamfdaemon, libgee-0.8-2, libgnome-menu-3-0, libwnck-3-0, libc6
+Filename: ./plank-reloaded_0.11.132.deb
+Size: 495156
+MD5sum: e58f18a37faae7d6cc761ea1d105a234
+SHA1: f2365490b0d32535caadd54b1dc4ea5a4f387379
+SHA256: d83fcfab30dcd7f0bb9021dcc3240684ad4416574735b9a81dcf97c00d8104c1
+Section: x11
+Priority: optional
+Homepage: https://github.com/zquestz/plank-reloaded
+Description: Elegant and simple dock.
+ Plank Reloaded is a fork of the original Plank project, providing a simple dock
+ for X11 desktop environments. While development began with a focus on Cinnamon,
+ we now actively support multiple desktop environments including MATE and Xfce.
+ Like its predecessor, Plank Reloaded aims to be the simplest dock on the
+ planet, providing just what a dock needs and absolutely nothing more.
+
