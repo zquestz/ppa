@@ -1066,3 +1066,45 @@ Description: Elegant and simple dock.
  Like its predecessor, Plank Reloaded aims to be the simplest dock on the
  planet, providing just what a dock needs and absolutely nothing more.
 
+Package: plank-reloaded
+Version: 0.11.170-1
+Architecture: arm64
+Maintainer: Josh Ellithorpe <quest@mac.com>
+Depends: bamfdaemon, libgee-0.8-2, libgnome-menu-3-0, libwnck-3-0, libcanberra0t64 | libcanberra0, libc6
+Conflicts: plank, libplank-common, libplank1
+Filename: ./plank-reloaded_0.11.170-1_arm64.deb
+Size: 660582
+MD5sum: ebbe6fe21afd6750e70e135efc500772
+SHA1: be6d6f5e912d48eb5df77e58d0eeb4bb35f5ecbe
+SHA256: 6eae52ce5930d82e27a91f4def4a8ce82e29a4a1f08bf8568e816267d0c77602
+Section: x11
+Priority: optional
+Homepage: https://github.com/zquestz/plank-reloaded
+Description: Elegant and simple dock.
+ Plank Reloaded is a fork of the original Plank project, providing a simple dock
+ for X11 desktop environments. While development began with a focus on Cinnamon,
+ we now actively support multiple desktop environments including MATE and Xfce.
+ Like its predecessor, Plank Reloaded aims to be the simplest dock on the
+ planet, providing just what a dock needs and absolutely nothing more.
+
+Package: plank-reloaded
+Version: 0.11.170-1
+Architecture: amd64
+Maintainer: Josh Ellithorpe <quest@mac.com>
+Depends: bamfdaemon, libgee-0.8-2, libgnome-menu-3-0, libwnck-3-0, libcanberra0t64 | libcanberra0, libc6
+Conflicts: plank, libplank-common, libplank1
+Filename: ./plank-reloaded_0.11.170-1_amd64.deb
+Size: 703740
+MD5sum: c0d381f083e95f1b6d6dc37b84f5ec9b
+SHA1: 4e806a202900b0ee5a4c483be056280b81fa0774
+SHA256: a4416d26fcb5bd76e7b75a979daa58e29cad8d674c4f45f1ba8d8167905066c7
+Section: x11
+Priority: optional
+Homepage: https://github.com/zquestz/plank-reloaded
+Description: Elegant and simple dock.
+ Plank Reloaded is a fork of the original Plank project, providing a simple dock
+ for X11 desktop environments. While development began with a focus on Cinnamon,
+ we now actively support multiple desktop environments including MATE and Xfce.
+ Like its predecessor, Plank Reloaded aims to be the simplest dock on the
+ planet, providing just what a dock needs and absolutely nothing more.
+
